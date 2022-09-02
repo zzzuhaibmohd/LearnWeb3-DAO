@@ -10,3 +10,4 @@
 
 1. Whitelist-Dapp
 2. NFT-Collection
+3. ICO
